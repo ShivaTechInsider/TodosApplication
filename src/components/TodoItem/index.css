@@ -1,0 +1,23 @@
+/* Write your CSS here */
+* {
+  box-sizing: border-box;
+}
+.listContainer {
+  padding: 15px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.listPara {
+  color: #000000;
+  font-size: 20px;
+}
+.delButton {
+  background-color: transparent;
+  border: 2px solid #ff0b37;
+  color: #ff0b37;
+  padding: 10px;
+  border-radius: 8px;
+  width: 80px;
+  font-weight: bold;
+}
